@@ -1,1 +1,1 @@
-# general
+# General scripts for class
