@@ -18,8 +18,7 @@ ggplot(sra, aes(x=date, y=bases)) +
   geom_area() +
   labs(y="Total bases", x = "Date",
        title="Growth of the Sequence Read Archive (SRA)",
-       subtitle="Data source: bit.ly/SRA_query",
-       caption=paste0("produced on ", Sys.time())) +
+       caption="data source: bit.ly/SRAdb_data \nscript source: bit.ly/SRAdb_script") +
   #scale_y_log10() +
   annotate(geom="text",x=as.Date("2015-01-01"), y=1.1e+16, label="Illumina \n NextSeq",fontface="bold") +
   annotate("segment", x = as.Date("2015-01-01"), xend = as.Date("2015-01-01"), y = 9e+15, yend =3e+15, colour = "black", size=1, alpha=0.6, arrow=arrow()) +
@@ -29,5 +28,8 @@ ggplot(sra, aes(x=date, y=bases)) +
   annotate("segment", x = as.Date("2011-06-01"), xend = as.Date("2011-01-01"), y = 9e+15, yend =1e+15, colour = "black", size=1, alpha=0.6, arrow=arrow()) +
   annotate(geom="text",x=as.Date("2017-01-01"), y=2.1e+16, label="Illumina \n NovaSeq",fontface="bold") +
   annotate("segment", x = as.Date("2017-01-01"), xend = as.Date("2017-01-01"), y = 1.8e+16, yend =1e+16, colour = "black", size=1, alpha=0.6, arrow=arrow()) +
-  theme_ipsum_rc()
+  theme_ipsum_rc(axis_title_size = 18,
+                 axis_title_face = "plain",
+                 axis_title_just = "c",
+                 caption_size = 14)
 
