@@ -1,0 +1,263 @@
+format	studentID	time	I can navigate around my computer using the command line (Terminal, bash, etc)	I can use basic command-line programs	I know which programs I would need to use for a full RNAseq workflow	I know the difference between a .fastq file and a .fasta file	I can align my own RNAseq data	I am comfortable working in R	I would recognize an R script by looking at it	I know the difference between R and Bioconductor	I know the difference between RPKM, FPKM and TPM when measuring gene expression by RNAseq	I know where to find genome and transcriptome reference files for RNAseq alignments.	I know how to use the 'tidyverse' set of tools to wrangle data	I know the difference between a data matrix and a data frame	I know how to use ggplot for making graphics	I understand principle component analysis (PCA) plots	I know what Gene Ontology is and how to use it for enrichment analysis	I know what GSEA and MSigDB are and how to use them for enrichment analysis	I am comfortable finding and working with public gene expression data	I can make make interactive bar and scatter plots	I know what markdown is and can understand the basics of an Rmarkdown file.	I feel good about my ability to make an RNAseq project reproducible, transparent, and well documented.
+in person	0001	start	1	1	1	1	1	2	2	1	3	3	1	3	1	2	4	2	3	2	1	3
+in person	0001	end	3	3	5	4	5	3	5	3	4	5	4	5	5	3	5	4	2	5	5	5
+in person	0002	start	1	1	1	2	1	1	1	1	2	1	1	1	1	2	3	2	2	1	1	1
+in person	0002	end	4	4	4	5	4	4	4	3	4	5	4	5	4	4	4	3	4	4	5	4
+in person	0003	start	2	2	2	3	1	1	1	1	1	2	1	2	1	2	3	1	2	3	2	1
+in person	0003	end	4	4	4	4	4	3	4	3	3	5	4	5	5	5	3	3	3	4	4	4
+in person	0004	start	2	4	1	1	1	3	4	4	1	1	1	1	3	3	1	1	3	1	4	1
+in person	0004	end	3	5	5	5	5	4	5	5	5	5	4	5	4	5	5	5	5	4	4	4
+in person	0005	start	3	3	2	1	2	2	2	5	2	3	1	1	1	4	4	3	2	1	2	1
+in person	0005	end	5	5	4	4	5	5	5	5	5	5	5	4	5	5	5	5	5	4	5	5
+in person	0006	start	2	3	2	2	1	4	4	3	1	1	3	3	4	4	2	1	1	4	2	1
+in person	0006	end	3	3	4	3	5	5	5	3	4	4	4	3	4	3	4	3	5	4	4	4
+in person	0007	start	4	4	1	1	1	1	3	1	1	1	1	1	1	2	3	3	2	1	2	1
+in person	0007	end	5	4	5	5	5	3	5	5	4	5	3	5	5	4	5	5	4	5	4	4
+in person	0008	start	3	3	2	2	3	3	4	4	2	5	1	3	2	3	4	3	3	1	5	3
+in person	0008	end	5	5	5	4	5	5	5	5	4	4	3	4	4	4	4	4	4	4	4	4
+in person	0009	start	1	1	2	2	1	2	2	3	3	3	1	2	1	2	2	1	1	1	1	1
+in person	0009	end	3	4	5	4	5	4	4	5	4	5	4	4	4	4	4	3	3	4	4	4
+in person	0010	start	5	4	4	4	4	4	4	5	3	3	2	2	3	3	3	3	3	2	4	4
+in person	0010	end	5	4	5	5	5	4	5	5	4	5	4	5	4	4	4	5	4	5	5	5
+in person	0011	start	1	1	1	1	1	1	1	1	1	2	1	1	1	3	1	2	1	1	1	1
+in person	0011	end	2	2	4	4	4	4	4	4	3	4	3	4	4	4	4	4	3	4	4	3
+in person	0012	start	1	1	1	1	1	2	4	2	1	1	2	2	4	4	2	1	1	1	1	1
+in person	0012	end	3	3	4	4	5	4	5	4	4	5	4	5	5	3	4	4	3	4	5	4
+in person	0013	start	2	2	1	1	1	2	2	3	2	1	1	1	1	3	3	1	1	2	2	3
+in person	0013	end	4	4	5	5	5	5	5	5	5	3	4	5	5	5	4	4	3	4	5	4
+in person	0014	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+in person	0014	end	3	3	4	4	3	3	5	2	4	5	4	4	4	4	4	3	3	3	4	3
+in person	0015	start	2	2	2	2	2	2	2	1	1	2	1	1	1	1	1	2	1	2	1	2
+in person	0015	end	3	3	3	3	3	4	4	3	3	4	4	3	4	4	3	3	3	4	4	4
+in person	0016	start	1	1	1	1	1	1	2	1	2	2	1	1	2	2	2	1	2	1	1	2
+in person	0016	end	3	2	3	3	3	2	5	4	3	3	3	3	3	3	2	2	2	3	3	2
+in person	0017	start	1	2	2	3	2	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1
+in person	0017	end	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	4
+in person	0018	start	5	5	4	3	5	5	5	5	5	3	3	5	5	5	3	3	3	2	5	5
+in person	0018	end	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+in person	0019	start	2	2	1	1	1	1	3	1	1	1	1	1	1	1	1	1	1	1	1	4
+in person	0019	end	3	4	5	4	5	5	5	4	4	4	4	4	5	5	4	4	3	5	4	4
+in person	0020	start	1	2	2	4	2	3	2	1	3	2	2	1	4	4	2	1	2	1	1	1
+in person	0020	end	3	3	5	4	5	4	4	4	5	5	4	4	4	4	3	5	4	5	5	5
+in person	0021	start	2	2	1	1	1	1	1	1	1	1	1	1	1	3	1	1	1	1	1	1
+in person	0021	end	3	3	3	3	3	4	4	5	3	4	4	4	5	5	5	3	3	5	3	3
+in person	0022	start	2	2	1	1	1	3	5	5	1	3	1	5	3	2	1	1	1	3	1	1
+in person	0022	end	3	3	4	4	4	5	5	5	2	5	4	5	4	4	3	2	2	4	2	3
+in person	0023	start	4	4	4	5	4	5	5	5	5	3	2	5	5	5	5	2	2	3	5	4
+in person	0023	end	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	3	3	5	5	4
+in person	0024	start	2	2	1	2	1	3	2	1	2	1	1	2	1	2	2	1	1	1	1	1
+in person	0024	end	3	3	3	3	3	4	4	2	3	3	4	5	4	4	3	3	3	3	3	2
+in person	0025	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+in person	0025	end	3	3	4	2	4	3	2	3	2	3	3	2	4	4	3	2	2	3	2	1
+in person	0026	start	1	1	1	1	1	1	3	1	1	1	1	1	1	3	3	1	1	1	1	1
+in person	0026	end	5	5	5	5	5	5	5	5	4	5	4	5	4	5	4	2	4	4	3	3
+in person	0027	start	3	4	3	5	2	3	4	3	3	4	2	4	4	2	4	3	3	4	4	1
+in person	0027	end	4	4	4	4	3	3	5	5	4	4	4	4	4	4	4	4	3	4	5	3
+in person	0028	start	2	1	3	2	2	2	3	2	1	3	2	1	3	1	3	3	1	1	3	2
+in person	0028	end	2	2	4	2	3	4	5	3	3	4	4	3	4	4	4	4	4	4	3	3
+in person	0029	start	3	3	4	3	2	4	4	4	2	3	4	3	4	4	4	4	3	4	3	4
+in person	0029	end	4	4	5	4	4	4	5	4	4	4	4	4	5	4	5	5	3	3	4	4
+in person	0030	start	3	3	2	2	3	3	3	1	1	2	1	1	1	2	2	1	1	1	3	1
+in person	0030	end	4	4	4	3	5	4	5	4	5	5	4	5	5	5	5	4	4	5	4	4
+in person	0031	start	1	2	1	2	1	3	4	3	2	1	1	4	2	2	2	1	2	1	5	1
+in person	0031	end	4	4	5	3	5	5	5	4	4	4	5	5	5	4	5	5	4	5	5	4
+in person	0032	start	3	2	1	3	1	1	1	1	1	1	1	3	1	2	2	1	1	1	3	1
+in person	0032	end	5	5	4	4	4	4	5	4	5	4	4	4	5	4	4	4	4	5	5	4
+in person	0033	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1
+in person	0033	end	3	3	4	4	4	3	4	3	3	4	4	4	3	4	4	4	3	3	3	3
+in person	0034	start	2	4	3	1	2	4	3	3	1	1	1	3	1	4	3	1	3	1	3	1
+in person	0034	end	3	4	3	5	3	4	4	5	2	4	3	4	4	5	5	2	2	3	3	2
+in person	0035	start	1	1	2	3	2	1	1	2	3	3	1	1	1	3	4	3	2	1	1	3
+in person	0035	end	2	3	4	5	4	4	4	4	4	5	4	3	4	5	5	5	4	4	3	4
+in person	0036	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2
+in person	0036	end	4	4	4	4	4	4	3	3	4	3	4	3	4	4	4	3	4	4	4	3
+in person	0037	start	2	3	1	1	1	3	3	1	2	4	1	1	1	3	2	2	3	2	5	2
+in person	0037	end	3	4	4	4	3	4	5	5	4	4	3	4	4	4	4	3	3	3	4	3
+in person	0038	start	2	4	1	1	1	1	2	1	2	3	1	3	1	4	3	1	2	1	1	1
+in person	0038	end	3	4	5	5	4	4	5	5	5	5	3	5	5	5	5	5	5	5	5	5
+in person	0039	start	1	1	1	1	1	2	1	1	1	1	1	1	1	2	2	1	1	1	1	1
+in person	0039	end	3	3	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	3
+in person	0040	start	2	3	1	1	1	2	3	3	1	1	1	2	2	3	3	2	2	1	1	1
+in person	0040	end	3	3	4	4	4	4	4	4	4	3	3	5	3	4	4	3	3	3	4	4
+in person	0041	start	3	2	2	3	1	4	4	5	4	5	1	2	2	2	2	1	5	3	1	1
+in person	0041	end	3	3	5	5	5	4	5	5	5	5	5	5	5	5	5	4	4	5	5	3
+in person	0042	start	3	2	3	4	2	2	1	4	4	3	1	3	2	3	5	2	2	1	1	1
+in person	0042	end	4	3	5	5	5	5	4	5	5	5	4	5	4	4	4	3	5	4	4	3
+in person	0043	start	1	1	1	1	1	2	1	1	1	1	1	1	1	3	1	1	1	1	3	1
+in person	0043	end	4	5	4	5	3	5	5	4	4	5	5	5	5	5	5	3	3	4	5	5
+in person	0044	start	1	2	1	1	1	1	1	1	1	1	1	1	1	2	2	2	3	1	1	1
+in person	0044	end	4	5	4	3	4	5	5	5	4	4	5	5	5	5	4	4	3	4	5	4
+in person	0045	start	5	5	3	1	1	5	5	5	1	1	3	5	3	3	3	1	3	1	5	1
+in person	0045	end	5	5	5	5	5	5	5	5	5	5	4	5	4	5	5	5	5	4	5	4
+in person	0046	start	1	2	2	1	1	2	2	1	1	1	1	2	2	3	2	2	1	1	1	1
+in person	0046	end	3	4	5	5	5	4	5	5	5	5	5	4	5	5	4	4	3	4	4	4
+in person	0047	start	1	1	1	1	1	2	3	1	1	1	1	1	2	3	2	1	1	1	3	2
+in person	0047	end	2	2	3	3	3	3	4	3	3	4	3	4	3	3	3	2	2	2	4	3
+in person	0048	start	4	4	5	5	5	3	5	4	2	5	1	2	3	4	4	2	5	3	1	3
+in person	0048	end	4	4	5	5	5	4	5	5	4	5	4	5	4	4	4	5	3	5	4	4
+in person	0049	start	1	1	1	1	1	2	2	1	2	1	1	1	1	2	1	2	1	1	1	1
+in person	0049	end	4	4	5	4	3	5	4	4	3	5	3	5	5	5	5	5	3	4	4	3
+in person	0050	start	1	2	1	1	1	2	2	3	1	1	1	2	1	4	3	1	1	1	1	1
+in person	0050	end	3	3	5	5	5	5	5	5	4	4	5	5	5	5	5	5	5	5	5	5
+in person	0051	start	1	2	1	2	2	2	2	2	1	1	1	1	1	3	3	1	1	1	3	2
+in person	0051	end	4	4	4	3	4	3	5	4	4	5	4	4	4	4	5	4	4	4	4	3
+in person	0052	start	1	1	2	2	1	2	2	2	1	2	1	1	1	3	2	2	2	1	3	2
+in person	0052	end	3	2	3	5	4	4	4	3	3	4	4	5	4	4	3	4	4	4	4	4
+in person	0053	start	3	3	1	2	1	3	3	3	3	1	4	4	4	3	3	3	3	1	4	3
+in person	0053	end	4	4	5	4	5	4	5	5	5	5	5	4	5	5	5	5	5	4	5	4
+in person	0054	start	3	3	2	2	3	3	3	1	1	2	1	1	1	2	2	1	1	1	3	1
+in person	0054	end	3	3	3	5	3	3	5	5	5	5	5	5	5	5	5	4	4	5	5	5
+in person	0055	start	2	3	1	1	1	2	5	1	2	1	1	1	3	2	4	5	3	2	1	1
+in person	0055	end	4	5	5	5	4	5	5	5	3	5	4	4	5	3	5	5	3	5	5	5
+in person	0056	start	2	2	1	1	1	2	3	4	1	1	2	1	2	1	1	1	1	1	1	1
+in person	0056	end	4	3	5	5	3	4	5	5	3	4	3	4	3	4	3	3	3	3	5	3
+in person	0057	start	1	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+in person	0057	end	4	4	5	5	4	4	5	5	4	5	4	5	5	4	4	4	4	4	4	4
+in person	0058	start	1	1	1	2	1	2	2	1	2	1	1	1	1	3	1	1	1	1	3	1
+in person	0058	end	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+in person	0059	start	5	5	2	4	2	4	5	4	1	3	1	3	4	4	4	1	3	1	5	3
+in person	0059	end	5	5	5	5	5	5	5	5	4	3	4	5	5	5	4	3	3	5	5	4
+in person	0060	start	2	3	4	4	3	4	4	3	4	4	1	2	3	4	3	3	3	3	2	3
+in person	0060	end	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	4
+in person	0061	start	1	2	2	1	1	2	4	1	1	2	1	1	1	3	1	1	2	1	3	1
+in person	0061	end	4	3	4	4	2	4	5	4	5	4	5	4	4	5	5	4	3	4	5	3
+in person	0062	start	1	1	2	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2	1
+in person	0062	end	4	4	5	4	4	3	5	5	4	4	4	4	4	5	4	4	4	4	4	4
+in person	0063	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	3	3	3	2
+in person	0063	end	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	4	4	4
+in person	0064	start	2	2	1	1	1	1	1	1	1	1	1	1	1	3	3	1	1	1	1	1
+in person	0064	end	3	4	4	3	4	3	5	4	3	5	4	5	4	5	3	3	3	4	4	3
+in person	0065	start	2	1	1	1	2	1	1	1	1	1	1	1	1	2	2	2	1	1	1	1
+in person	0065	end	3	3	5	4	5	4	3	3	4	4	4	4	4	5	4	4	3	3	4	3
+in person	0066	start	1	1	1	1	1	2	3	2	1	3	3	2	4	3	3	1	2	1	4	1
+in person	0066	end	2	3	5	3	4	4	5	4	3	5	5	5	5	5	5	4	4	4	5	5
+virtual	0067	start	3	3	3	2	1	4	5	4	4	2	2	2	2	2	2	1	1	1	1	1
+virtual	0067	end	5	5	5	5	5	5	5	5	5	4	5	5	5	5	4	4	4	4	5	4
+virtual	0068	start	1	2	1	1	1	3	2	1	1	4	2	1	2	2	1	1	3	1	1	1
+virtual	0068	end	3	5	4	5	5	4	4	5	3	4	5	5	5	4	4	3	2	5	5	3
+virtual	0069	start	3	3	3	5	4	3	2	4	4	4	2	3	2	4	3	2	4	2	2	3
+virtual	0069	end	5	4	5	5	5	4	5	5	4	4	4	4	5	4	4	3	5	4	3	4
+virtual	0070	start	1	1	1	1	1	1	1	1	1	1	1	1	1	3	1	1	1	1	1	1
+virtual	0070	end	4	4	5	4	4	4	4	5	3	4	3	5	4	5	4	4	3	4	4	4
+virtual	0071	start	3	4	4	3	4	4	4	4	1	3	3	3	3	3	1	1	2	2	2	4
+virtual	0071	end	4	4	4	4	4	5	5	5	4	4	5	4	4	4	4	3	3	4	4	4
+virtual	0072	start	1	2	1	1	1	2	2	1	1	3	1	4	1	5	4	4	3	2	1	1
+virtual	0072	end	5	4	5	5	5	4	5	5	5	5	5	5	5	4	5	5	4	5	5	4
+virtual	0073	start	3	3	2	1	1	3	3	5	1	3	1	1	1	4	2	1	2	1	3	3
+virtual	0073	end	3	3	5	5	5	4	5	5	3	5	4	5	5	4	4	3	3	5	4	3
+virtual	0074	start	2	2	1	5	1	4	5	5	3	1	4	5	5	5	4	2	3	1	3	1
+virtual	0074	end	3	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	5	4	4
+virtual	0075	start	2	2	1	1	1	3	4	1	1	1	1	3	1	4	2	2	1	1	3	1
+virtual	0075	end	4	4	5	4	4	5	5	4	4	4	4	5	5	5	4	4	3	4	5	4
+virtual	0076	start	1	2	1	1	1	3	3	3	2	2	1	1	3	2	1	1	1	3	4	1
+virtual	0076	end	4	4	3	5	3	4	4	5	4	4	4	4	5	4	4	4	3	4	4	4
+virtual	0077	start	3	3	1	5	2	1	1	1	2	1	1	1	1	3	1	1	2	1	1	1
+virtual	0077	end	3	3	4	5	4	3	3	5	4	5	4	4	4	4	3	3	3	4	4	4
+virtual	0078	start	4	3	2	2	1	4	5	5	1	2	1	5	4	3	3	1	2	1	2	1
+virtual	0078	end	4	3	4	5	3	4	5	5	3	3	4	5	5	3	3	3	3	4	5	5
+virtual	0079	start	2	3	1	1	1	2	2	2	3	2	2	1	1	4	2	2	1	3	3	2
+virtual	0079	end	4	4	4	4	3	4	4	4	5	4	5	5	5	5	4	4	3	4	4	4
+virtual	0080	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+virtual	0080	end	3	4	4	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	4
+virtual	0081	start	1	2	3	1	1	2	2	2	1	1	1	1	1	1	1	1	1	1	2	1
+virtual	0081	end	3	4	5	5	5	5	5	5	3	5	5	5	5	5	4	4	4	4	4	4
+virtual	0082	start	4	3	2	2	2	3	3	1	2	2	1	4	2	3	4	3	1	2	1	1
+virtual	0082	end	4	4	3	3	4	3	4	4	3	4	3	5	4	4	3	3	3	3	2	2
+virtual	0083	start	4	4	2	3	1	2	3	2	2	2	3	2	4	4	4	2	3	4	4	1
+virtual	0083	end	5	5	4	5	5	5	5	4	4	5	5	4	5	5	5	5	5	5	5	4
+virtual	0084	start	3	3	1	1	1	2	3	1	1	1	1	3	3	1	3	1	1	1	1	1
+virtual	0084	end	4	4	5	5	5	4	4	5	4	5	5	4	5	5	5	5	4	5	4	4
+virtual	0085	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+virtual	0085	end	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	3	3	2	2	2
+virtual	0086	start	1	1	1	1	1	1	1	1	1	1	1	1	1	3	1	2	2	1	1	1
+virtual	0086	end	4	4	4	4	3	4	4	3	4	3	4	4	4	4	3	3	3	4	2	3
+virtual	0087	start	5	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+virtual	0087	end	4	4	4	5	4	4	4	4	4	4	4	4	5	5	4	4	3	5	4	4
+virtual	0088	start	3	2	1	1	1	2	2	2	1	1	1	1	1	3	1	1	2	1	1	1
+virtual	0088	end	4	5	5	5	5	4	5	5	4	5	4	5	5	5	4	4	4	5	5	4
+virtual	0089	start	1	1	2	1	1	2	1	3	3	1	1	1	1	2	1	1	2	2	2	1
+virtual	0089	end	4	4	3	5	4	5	4	5	4	5	5	4	4	4	4	3	3	4	4	5
+virtual	0090	start	1	1	1	1	1	2	2	1	2	1	1	1	2	1	3	1	1	3	1	1
+virtual	0090	end	3	3	4	5	4	4	4	4	4	4	4	4	4	4	4	3	4	5	4	4
+virtual	0091	start	3	3	4	4	4	2	4	2	3	1	2	2	2	3	4	3	1	1	3	2
+virtual	0091	end	4	4	5	4	5	5	4	5	4	5	4	5	5	5	4	4	3	5	5	5
+virtual	0092	start	3	4	1	3	1	4	4	3	2	1	4	3	4	4	2	1	2	2	2	2
+virtual	0092	end	5	5	5	4	4	5	5	5	4	5	5	5	5	5	5	5	4	5	5	4
+virtual	0093	start	1	1	2	2	1	3	2	1	3	1	1	1	1	5	1	1	1	3	1	1
+virtual	0093	end	3	3	5	5	5	4	5	5	4	5	4	5	4	4	4	4	4	5	3	4
+virtual	0094	start	1	1	2	1	1	2	1	1	1	1	1	2	2	3	1	1	1	2	3	1
+virtual	0094	end	1	2	5	5	5	3	5	4	4	5	5	5	5	5	4	5	4	4	5	5
+virtual	0095	start	2	1	1	1	1	2	2	1	1	1	1	1	2	1	1	1	1	2	2	1
+virtual	0095	end	4	5	5	5	5	4	5	4	5	5	4	5	4	5	4	4	4	4	5	4
+virtual	0096	start	4	4	1	2	2	5	3	4	2	2	3	4	4	3	4	4	3	1	3	1
+virtual	0096	end	4	4	4	5	5	5	4	5	4	5	4	5	4	5	4	4	4	4	4	4
+virtual	0097	start	1	1	2	5	1	4	5	5	4	1	5	5	5	5	3	3	2	1	4	1
+virtual	0097	end	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+virtual	0098	start	1	1	2	2	1	2	2	1	3	1	1	1	3	4	4	5	2	1	3	2
+virtual	0098	end	4	4	4	4	5	4	5	4	3	4	4	4	4	4	4	4	2	4	4	3
+virtual	0099	start	2	2	1	1	1	2	2	2	2	2	2	2	3	2	2	1	1	1	2	1
+virtual	0099	end	4	4	4	4	3	4	4	4	3	4	4	4	4	4	3	3	3	4	4	4
+virtual	0100	start	4	4	4	3	5	3	5	5	4	1	1	2	1	3	3	4	4	1	4	2
+virtual	0100	end	3	3	5	5	5	4	5	5	4	4	4	5	4	5	5	5	3	3	4	3
+virtual	0101	start	3	3	1	1	1	1	1	1	2	1	1	1	1	3	3	1	2	2	2	1
+virtual	0101	end	5	5	5	3	5	5	3	5	4	3	5	4	5	5	4	4	3	4	3	4
+virtual	0102	start	3	2	1	1	1	4	4	1	2	1	2	2	4	2	2	1	1	2	1	1
+virtual	0102	end	4	3	4	3	4	5	5	4	2	4	4	3	5	3	4	3	3	4	4	4
+virtual	0103	start	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+virtual	0103	end	3	4	5	5	5	5	4	4	4	4	5	4	5	5	4	4	5	4	4	4
+virtual	0104	start	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+virtual	0104	end	3	4	5	5	5	4	5	5	3	4	4	5	4	4	4	4	3	4	4	4
+virtual	0105	start	1	3	1	3	1	3	5	2	3	2	4	4	4	2	1	1	2	2	3	1
+virtual	0105	end	3	4	4	5	4	5	5	5	5	5	4	5	5	4	4	3	4	4	3	4
+virtual	0106	start	1	1	1	1	1	1	1	1	1	2	1	1	1	1	2	1	1	1	1	1
+virtual	0106	end	2	2	2	5	4	3	3	3	3	5	3	5	3	4	3	3	3	3	2	3
+virtual	0107	start	4	3	2	5	1	4	5	3	1	5	1	1	3	5	3	1	4	3	1	1
+virtual	0107	end	5	5	4	5	4	5	5	5	3	5	5	5	5	5	5	3	5	2	5	4
+virtual	0108	start	1	2	1	1	1	2	1	3	2	1	1	1	1	3	2	1	1	1	1	1
+virtual	0108	end	4	5	5	5	5	5	5	5	4	4	4	5	5	5	5	4	4	5	5	4
+virtual	0109	start	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1
+virtual	0109	end	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3
+virtual	0110	start	1	1	1	3	1	2	5	1	3	1	1	1	1	1	1	1	1	1	4	1
+virtual	0110	end	3	3	3	4	4	4	5	4	4	4	4	4	5	4	4	4	4	5	3	3
+virtual	0111	start	1	1	1	1	1	2	3	1	1	1	1	1	1	1	1	1	1	1	2	1
+virtual	0111	end	2	2	4	5	4	4	5	5	5	4	4	5	5	4	2	2	2	4	3	3
+virtual	0112	start	1	1	1	1	1	1	1	1	1	1	1	1	1	3	3	2	1	1	2	1
+virtual	0112	end	3	3	4	4	4	3	5	4	5	5	4	5	5	5	4	4	3	5	4	3
+virtual	0113	start	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+virtual	0113	end	4	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5
+virtual	0114	start	3	3	1	4	1	2	2	1	1	4	1	1	1	4	3	1	1	1	2	1
+virtual	0114	end	4	4	5	5	4	4	5	4	4	5	4	5	4	4	4	4	4	4	4	4
+virtual	0115	start	2	2	1	1	1	3	3	3	2	1	1	1	1	2	4	1	2	1	1	1
+virtual	0115	end	3	2	5	5	4	4	5	5	4	3	5	4	4	4	5	4	4	5	3	4
+virtual	0116	start	4	4	1	3	1	2	2	1	1	1	1	3	2	2	1	1	1	1	4	1
+virtual	0116	end	4	4	3	5	3	3	4	4	4	3	4	5	3	3	2	2	3	3	4	3
+virtual	0117	start	2	2	2	2	1	3	2	4	2	1	3	1	2	3	2	2	3	2	2	2
+virtual	0117	end	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3
+virtual	0118	start	2	3	1	2	1	2	5	1	1	2	1	2	2	3	2	1	1	1	2	1
+virtual	0118	end	5	4	4	5	4	5	5	5	3	4	4	5	4	4	4	3	4	4	4	4
+virtual	0119	start	2	3	1	1	1	3	1	1	2	1	1	1	1	3	2	1	1	2	3	1
+virtual	0119	end	3	4	5	4	4	5	3	5	4	4	4	4	4	5	5	4	3	4	5	4
+virtual	0120	start	5	5	3	4	1	5	5	5	1	1	3	3	5	2	3	5	4	1	2	1
+virtual	0120	end	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	4	5	4	5
+virtual	0121	start	2	3	1	1	1	3	5	2	1	1	4	4	4	1	4	4	1	1	5	1
+virtual	0121	end	3	4	5	5	4	5	5	5	4	5	4	4	5	5	5	5	3	5	3	4
+virtual	0122	start	3	3	1	4	1	1	3	1	1	1	1	2	1	5	4	4	2	1	1	1
+virtual	0122	end	3	4	5	4	5	5	5	5	4	5	5	5	5	5	5	5	4	5	5	5
+virtual	0123	start	1	1	1	1	1	2	1	1	2	1	1	1	1	2	1	1	1	1	3	5
+virtual	0123	end	4	4	4	4	4	4	4	4	4	4	4	5	5	5	5	5	4	5	5	4
+virtual	0124	start	1	1	2	1	1	1	1	3	3	1	1	1	1	1	2	2	1	1	1	1
+virtual	0124	end	4	4	5	5	5	4	5	5	5	5	4	5	4	5	5	5	4	4	5	5
+virtual	0125	start	1	1	1	1	1	2	3	1	1	1	1	1	1	2	1	1	1	1	4	1
+virtual	0125	end	4	4	4	5	4	5	5	4	3	5	5	4	4	5	4	4	4	3	4	4
+virtual	0126	start	3	3	3	2	1	4	4	4	4	3	4	3	4	4	4	2	3	4	3	3
+virtual	0126	end	5	5	4	5	5	4	5	5	5	5	4	5	4	5	4	4	5	4	5	4
+virtual	0127	start	2	2	2	2	1	1	3	2	4	1	1	3	1	4	4	1	1	1	1	1
+virtual	0127	end	3	3	4	5	5	4	5	5	4	4	4	4	4	4	4	4	3	4	4	4
+virtual	0128	start	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	3	1
+virtual	0128	end	3	3	3	4	3	4	5	5	3	3	3	4	4	4	4	3	3	4	3	3
+virtual	0129	start	1	1	1	1	1	2	1	1	1	1	1	1	1	2	1	1	1	2	1	1
+virtual	0129	end	2	2	3	2	4	4	3	4	3	3	3	4	4	4	3	2	2	4	3	3
+virtual	0130	start	3	2	1	1	2	3	1	1	1	1	4	2	4	1	1	1	1	1	3	1
+virtual	0130	end	5	5	5	5	5	4	5	5	4	5	5	4	5	5	5	5	3	5	5	4
+virtual	0131	start	3	2	1	1	1	2	2	1	1	1	1	1	2	2	1	1	2	3	4	2
+virtual	0131	end	4	4	5	5	4	3	4	4	4	5	4	5	4	4	5	4	4	5	5	4
